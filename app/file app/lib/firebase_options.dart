@@ -52,11 +52,5 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBOD_r2N0QKwDNJB1gA5WVhVYB7PIpI4rw',
-    appId: '1:118780020316:android:ff7f476d1f5d0421cdc899',
-    messagingSenderId: '118780020316',
-    projectId: 'hydrotower-47079',
-    storageBucket: 'hydrotower-47079.firebasestorage.app',
-  );
+
 }
